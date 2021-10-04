@@ -1,0 +1,17 @@
+.service-card{
+  min-height: 80vh;
+  margin: 10px;
+  border: 2px solid gray;
+  transition: 0.3s;
+  font-family: 'Times New Roman';
+}
+.service-card span{
+  font-weight: bold;
+}
+
+.service-card:hover{
+  box-shadow: 10px 10px 30px;
+ border: 2px solid crimson;
+ border-radius: 5px;
+ transform: translateY(-15px);
+}

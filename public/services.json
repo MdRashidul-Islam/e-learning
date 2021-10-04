@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "HTML",
+    "price": 3200,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYAUpSjwNCtIBTbvnRGyV_RopZudw6gT1NcMCcbrNeRmnW51U&s",
+    "description": "Whether you’re interested in building your own websites, or pursuing a career as a web developer, having knowledge of HTML is an essential skill..."
+  },
+  {
+    "id": 2,
+    "name": "CSS",
+    "price": 3000,
+    "img": "https://i.ytimg.com/vi/yfoY53QXEnI/maxresdefault.jpg",
+    "description": "CSS stands for Cascading Style Sheets. It is the language for describing the presentation of Web pages, including colours, layout, and fonts, thus making our web pages presentable to the user..."
+  },
+  {
+    "id": 3,
+    "name": "JAVASCRIPT",
+    "price": 4000,
+    "img": "https://i.ytimg.com/vi/hdI2bqOjy3c/maxresdefault.jpg",
+    "description": "JavaScript (often shortened to JS) is a lightweight, interpreted, object-oriented language with first-class functions, and is best known as the scripting language for Web pages..."
+  },
+  {
+    "id": 4,
+    "name": "REACT",
+    "price": 4000,
+    "img": "https://reactjs.org/logo-og.png",
+    "description": "React is a declarative, efficient, and flexible JavaScript library for building user interfaces. It lets you compose complex UIs from small and isolated pieces of code called “components”..."
+  },
+  {
+    "id": 5,
+    "name": "MATERIAL UI",
+    "price": 2500,
+    "img": "https://cdn-media-1.freecodecamp.org/images/1*FDNeKIUeUnf0XdqHmi7nsw.png",
+    "description": "Material-UI is simply a library that allows us to import and use different components to create a user interface in our React applications... "
+  },
+  {
+    "id": 6,
+    "name": "NODE. JS",
+    "price": 3100,
+    "img": "https://i.ytimg.com/vi/RLtyhwFtXQA/maxresdefault.jpg",
+    "description": "Node. js (Node) is an open source development platform for executing JavaScript code server-side. Node is useful for developing applications that require a persistent..."
+  },
+  {
+    "id": 7,
+    "name": "ANGULAR",
+    "price": 3600,
+    "img": "https://i.ytimg.com/vi/Fdf5aTYRW0E/maxresdefault.jpg",
+    "description": "Angular is a platform and framework for building single-page client applications using HTML and TypeScript... "
+  },
+  {
+    "id": 8,
+    "name": "PYTHON",
+    "price": 3700,
+    "img": "https://i.ytimg.com/vi/JJmcL1N2KQs/maxresdefault.jpg",
+    "description": "Python is an interpreted, object-oriented, high-level programming language with dynamic semantics..."
+  },
+  {
+    "id": 9,
+    "name": "PHP",
+    "price": 3500,
+    "img": "https://i.morioh.com/2019/11/02/cec1e10e3be4.jpg",
+    "description": "PHP is a recursive acronym for \"PHP: Hypertext Preprocessor\". PHP is a server side scripting language that is embedded in HTML..."
+  },
+  {
+    "id": 10,
+    "name": "MongoDB",
+    "price": 2900,
+    "img": "https://i.ytimg.com/vi/bxsemcrY4gQ/maxresdefault.jpg",
+    "description": "MongoDB is an open source NoSQL database management program. NoSQL is used as an alternative to traditional relational databases... "
+  },
+  {
+    "id": 11,
+    "name": "WORDPRESS",
+    "price": 3550,
+    "img": "https://www.websitesolutions.com.bd/wp-content/themes/Avada-Child-Theme/images/Professional-WordPress-Training.jpg",
+    "description": "WordPress is a free, open-source website creation platform. On a more technical level, WordPress is a content management system (CMS) written in PHP that uses a MySQL database..."
+  },
+  {
+    "id": 12,
+    "name": "API",
+    "price": 3300,
+    "img": "https://i.ytimg.com/vi/TQfIUS52QHA/maxresdefault.jpg",
+    "description": "An API (Application Programming Interface) is a set of functions that allows applications to access data and interact with external software components, operating systems, or microservices..."
+  }
+]

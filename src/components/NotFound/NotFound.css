@@ -1,0 +1,11 @@
+.error{
+  width: 100%;
+  height: 470px;
+}
+.error h1{
+font-size: 100px;
+font-weight: bold;
+}
+.error h3{
+  font-size: 70px;
+}

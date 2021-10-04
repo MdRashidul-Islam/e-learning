@@ -1,0 +1,29 @@
+.team-container{
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  margin-top: 30px;
+}
+.image{
+  width: 250px;
+  height: 250px; 
+  padding: 10px;
+  border-radius: 50%;
+  margin: 0 auto;
+}
+
+.team-info{
+  padding: 10px;
+}
+.team-card{
+  min-height: 0vh;
+  font-family: 'Times New Roman';
+  transition: 0.3s;
+  color: white;
+}
+.team-card:hover{
+  box-shadow: 10px 10px 30px;
+ background-color: white;
+ border: 2px solid crimson;
+ border-radius: 5px;
+ transform: translateY(-15px);
+}

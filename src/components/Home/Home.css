@@ -1,0 +1,80 @@
+.banner-logo img{
+  width: 100%;
+ 
+}
+.main-heading{
+margin-top: 100px;
+}
+
+.main-heading h1{
+  font-size: 50px;
+  font-weight: bold;
+  font-family:  sans-serif;
+}
+
+.main-heading span{
+  font-size: 80px;
+  color: crimson;
+}
+
+.main-heading h5{
+  padding-top: 10px;
+  padding-right: 10px;
+  font-family:sans-serif
+}
+
+.course{
+  height: 550px;
+}
+
+.course-container{
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-gap:10px;
+  width: 100%;
+  height: 500px;
+}
+
+.course-card{
+  margin-bottom: 30px;
+  min-height: 50vh;
+  transition: 0.3s;
+
+}
+.course-card:hover{
+ box-shadow: 10px 10px 30px;
+ border: 2px solid crimson;
+ border-radius: 5px;
+ transform: translateY(-15px);
+ 
+}
+.course-info{
+  padding: 10px;
+}
+.card-text{
+  text-align: start;
+  font-family: 'Times New Roman', Times, serif;
+}
+.card-text span{
+  font-weight: bold;
+}
+.footer{
+  border: none;
+  background-color:white;
+}
+.footer-btn{
+  border: 1px solid crimson;
+  border-radius: 2px;
+  text-align: center;
+  display: block;
+  margin: 0 auto;
+  font-size: 18px;
+  font-weight: bold;
+  padding: 7px 15px;
+  transition: 0.3s;
+}
+.footer-btn:hover{
+  border: none;
+  background-color: crimson;
+  color: white;
+}

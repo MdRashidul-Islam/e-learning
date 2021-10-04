@@ -1,0 +1,19 @@
+.nav{
+  margin-bottom: 5px;
+  background-color: crimson;
+}
+.nav-brand{
+  font-size: 35px;
+  font-weight: bold;
+}
+.nav-item{
+ text-decoration: none;
+ font-size: 24px;
+ color: white;
+ font-family: 'Times New Roman', Times, serif;
+ padding: 5px 10px;
+
+}
+.nav-item:hover{
+  color: black;
+}

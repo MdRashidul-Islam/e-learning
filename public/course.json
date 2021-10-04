@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Html 5",
+    "price": 2500,
+    "img": "https://www.bitdegree.org/learn/storage/media/images/203b0fb7-ae46-4ba7-a69e-8cc445b89db2.o.jpg"
+  },
+  {
+    "id": 2,
+    "name": "CSS",
+    "price": 2200,
+    "img": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210203171024/CSSTutorial.png"
+  },
+  {
+    "id": 3,
+    "name": "Basic Js",
+    "price": 5500,
+    "img": "https://miro.medium.com/max/1400/0*MFc4K8mR4_YdinyG"
+  },
+  {
+    "id": 4,
+    "name": "Bootstrap",
+    "price": 1500,
+    "img": "https://getbootstrap.com/docs/5.1/assets/brand/bootstrap-social.png"
+  }
+]
